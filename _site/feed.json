@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Neva",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "title": "Leyla",
+    "home_page_url": "https://leyla-wieland-lu-home.netlify.app/",
+    "feed_url": "https://leyla-wieland-lu-home.netlify.app/feed.json",
     "description": "bli bla blu",
-    "icon": "http://localhost:4000/assets/images/icon-512.png",
-    "favicon": "http://localhost:4000/favicon.ico",
+    "icon": "https://leyla-wieland-lu-home.netlify.app/assets/images/icon-512.png",
+    "favicon": "https://leyla-wieland-lu-home.netlify.app/favicon.ico",
     "expired": false,
     "items": [
     
@@ -13,11 +13,11 @@
         
         
         {
-            "id": "http://localhost:4000/2020/06/05/supernew.html",
+            "id": "https://leyla-wieland-lu-home.netlify.app/2020/06/05/supernew.html",
             "title": "supernew",
             "content_text": ":heart:\n\n\n:sparkling_heart:\n\n\n\n:trolleybus:\n",
             "content_html": "<div class=\"language-markdown highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>:heart:\n</code></pre></div></div>\n\n<p>:sparkling_heart:</p>\n\n<p><img src=\"/assets/uploads/my_stratos_jump.jpg\" alt=\"\" /></p>\n\n<h2 id=\"trolleybus\">:trolleybus:</h2>\n",
-            "url": "http://localhost:4000/2020/06/05/supernew.html",
+            "url": "https://leyla-wieland-lu-home.netlify.app/2020/06/05/supernew.html",
             "date_published": "2020-06-05T15:35:04+02:00",
             "date_modified": "2020-06-05T15:35:04+02:00",
             "author": {
@@ -30,15 +30,15 @@
         
         
         {
-            "id": "http://localhost:4000/2020/06/04/nomol.html",
+            "id": "https://leyla-wieland-lu-home.netlify.app/2020/06/04/nomol.html",
             "title": "nomol",
-            "content_text": "3\n\n\n\n:heart:\n",
-            "content_html": "<p>3</p>\n\n<p><img src=\"/assets/uploads/20200601.jpg\" alt=\"\" /></p>\n\n<p>:heart:</p>\n",
-            "url": "http://localhost:4000/2020/06/04/nomol.html",
+            "content_text": "3 😃 ℃🎅🏻🏵️😎🍂🍁🐌\n\n\n\n:heart:\n",
+            "content_html": "<h1 id=\"3--️\">3 😃 ℃🎅🏻🏵️😎🍂🍁🐌</h1>\n\n<p><img src=\"/assets/uploads/20200601.jpg\" alt=\"\" /></p>\n\n<p>:heart:</p>\n",
+            "url": "https://leyla-wieland-lu-home.netlify.app/2020/06/04/nomol.html",
             "date_published": "2020-06-04T19:50:41+02:00",
             "date_modified": "2020-06-04T19:50:41+02:00",
             "author": {
-                "name": "neva"
+                "name": "leyla"
             }
         }
         

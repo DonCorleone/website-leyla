@@ -2,7 +2,7 @@
 title: About
 layout: post
 ---
-#### Neva ist Fan von
+#### Leyla ist Fan von
 
 <figure>
   <img alt="Pepa Pig" src="https://upload.wikimedia.org/wikipedia/en/6/61/Peppa_Pig.png" />

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neva</title>
+    <title>Leyla</title>
     <description>bli bla blu</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jun 2020 23:01:16 +0200</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2020 23:01:16 +0200</lastBuildDate>
+    <link>https://leyla-wieland-lu-home.netlify.app/</link>
+    <atom:link href="https://leyla-wieland-lu-home.netlify.app/feed/index.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 21 Jun 2020 22:59:51 +0200</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2020 22:59:51 +0200</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       
@@ -14,7 +14,7 @@
           
             <title>supernew</title>
           
-          <author>hello@patdryburgh.com (Neva)</author>
+          <author>hello@patdryburgh.com (Leyla)</author>
           <description>
             &lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;:heart:
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -27,8 +27,8 @@
 
           </description>
           <pubDate>Fri, 05 Jun 2020 15:35:04 +0200</pubDate>
-          <link>http://localhost:4000/2020/06/05/supernew.html</link>
-          <guid isPermaLink="true">http://localhost:4000/2020/06/05/supernew.html</guid>
+          <link>https://leyla-wieland-lu-home.netlify.app/2020/06/05/supernew.html</link>
+          <guid isPermaLink="true">https://leyla-wieland-lu-home.netlify.app/2020/06/05/supernew.html</guid>
           
           
         </item>
@@ -39,9 +39,9 @@
           
             <title>nomol</title>
           
-          <author>hello@patdryburgh.com (Neva)</author>
+          <author>hello@patdryburgh.com (Leyla)</author>
           <description>
-            &lt;p&gt;3&lt;/p&gt;
+            &lt;h1 id=&quot;3--️&quot;&gt;3 😃 ℃🎅🏻🏵️😎🍂🍁🐌&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/uploads/20200601.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -49,8 +49,8 @@
 
           </description>
           <pubDate>Thu, 04 Jun 2020 19:50:41 +0200</pubDate>
-          <link>http://localhost:4000/2020/06/04/nomol.html</link>
-          <guid isPermaLink="true">http://localhost:4000/2020/06/04/nomol.html</guid>
+          <link>https://leyla-wieland-lu-home.netlify.app/2020/06/04/nomol.html</link>
+          <guid isPermaLink="true">https://leyla-wieland-lu-home.netlify.app/2020/06/04/nomol.html</guid>
           
           
         </item>
